@@ -1,0 +1,4 @@
+# Config
+
+
+API_KEY = 'L2TQ80IC3XMB8N24'
